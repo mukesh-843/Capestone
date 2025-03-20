@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\event-management-system-backend.props" />
+</Project>
